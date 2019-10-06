@@ -1,5 +1,7 @@
 # D3 Homework - Data Journalism and D3
 
+### The final visualization:https://cmutd.github.io/D3_Challenge/
+
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
