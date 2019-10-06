@@ -36,7 +36,7 @@ function makeResponsive() {
       .attr("transform", `translate(${margin.left}, ${margin.top})`);
   
     // Read CSV
-    d3.csv("data.csv").then(function(healthData) {
+    d3.csv("Step1_D3_Data_jouralism/StarterCode/assets/data/data.csv").then(function(healthData) {
   
   
         // parse data
